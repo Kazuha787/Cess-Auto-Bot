@@ -54,7 +54,7 @@ http://user:pass@host:port)
 ```
 # Usage 🚀Run the Script
 ```
-node main.js
+npm start
 ```
 Select Mode:
 Use arrow keys and Enter to choose:
