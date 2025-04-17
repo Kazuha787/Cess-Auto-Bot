@@ -1,11 +1,11 @@
 {
-  "name": "NT EXHAUST - CESS AUTO BOT",
+  "name": "KAZUHA787- CESS AUTO BOT",
   "version": "1.0.0",
   "description": "Auto Bot Daily Checkin and Upload Files",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node main.js"
   },
   "dependencies": {
     "axios": "^1.4.0",
