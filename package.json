@@ -1,0 +1,22 @@
+{
+  "name": "NT EXHAUST - CESS AUTO BOT",
+  "version": "1.0.0",
+  "description": "Auto Bot Daily Checkin and Upload Files",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "blessed": "^0.1.81",
+    "chalk": "^5.3.0",
+    "form-data": "^4.0.0",
+    "https-proxy-agent": "^6.2.1",
+    "looks": "^0.0.0",
+    "mail-genie": "^1.0.2",
+    "ora": "^6.3.1",
+    "prompts": "^2.4.2",
+    "socks-proxy-agent": "^7.0.0"
+  }
+}
